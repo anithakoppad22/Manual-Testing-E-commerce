@@ -26,4 +26,4 @@ Manual testing was conducted by understanding requirements, preparing test scena
 - Web Browser (Chrome)
 ## Outcome
 All major user flows were tested, defects were identified and documented, and test coverage was ensured through RTM.
-## Outcome
+
