@@ -37,7 +37,7 @@ The objective is to understand requirements, design test scenarios and test case
 - **Test Scenarios**
 - **Test Cases**
 - **Requirement Traceability Matrix (RTM)**
-- **Bug Report **
+- **Bug Report Samples**
 
 ---
 
