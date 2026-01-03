@@ -40,15 +40,6 @@ products online through a secure and user-friendly interface.
 
 
 =======
-1.2 Scope
-The application allows users to:
-Browse products
-Search and filter items
-Add products to cart
-Place orders
-Make payments
-Track orders
-
 ---
 
 ### 2.3 Operating Environment
