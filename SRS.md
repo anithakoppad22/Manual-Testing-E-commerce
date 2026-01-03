@@ -38,8 +38,6 @@ products online through a secure and user-friendly interface.
 | Registered User | Can place orders and make payments |
 | Admin | Manages products and orders (out of testing scope) |
 
-
-=======
 ---
 
 ### 2.3 Operating Environment
