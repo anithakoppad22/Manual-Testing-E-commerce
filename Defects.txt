@@ -1,0 +1,2 @@
+Note:
+The defects included in this project are mock defects created for learning and practice purposes while testing a stable production application.
